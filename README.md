@@ -7,7 +7,7 @@ model persistence using joblib, and deployment as a Streamlit web application.
 ---
 
 ## 🚀 Live Demo
-🔗 (Paste your Streamlit deployment link here after deploying)
+🔗 https://customer-churn-predictor101.streamlit.app/
 
 ---
 
